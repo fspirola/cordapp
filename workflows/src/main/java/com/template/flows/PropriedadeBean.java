@@ -39,7 +39,7 @@ public class PropriedadeBean {
         this.propriedadeEndereco = propriedadeEndereco;
     }
 
-    public String getProprietario() {
+    public static String getProprietario() {
         return proprietario;
     }
 
